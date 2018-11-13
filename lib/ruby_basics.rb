@@ -4,7 +4,6 @@ end
 
 def assign_variable(value)
   variable = value
-  puts variable
 end
 
 def argue
