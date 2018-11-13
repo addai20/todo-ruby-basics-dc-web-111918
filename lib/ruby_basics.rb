@@ -10,8 +10,9 @@ def argue(argmuent)
   puts argmuent
 end
 
-def greeting
-
+def greeting (name,like)
+  puts "Hello! My name is #{name} and I like #{like}!"
+  
 end
 
 def return_a_value
